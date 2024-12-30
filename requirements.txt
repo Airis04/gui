@@ -1,0 +1,4 @@
+Tkinter
+mysql-connector-python
+pandas
+openpyxl
